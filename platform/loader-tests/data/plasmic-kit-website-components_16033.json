@@ -18380,7 +18380,7 @@
         "42182724": {
           "uuid": "8FsmVjXz9RVG",
           "name": "",
-          "selectors": ["Placeholder"],
+          "selectors": ["::placeholder"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -53955,7 +53955,7 @@
         "42189245": {
           "uuid": "XM07lEsYry44",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -150809,7 +150809,7 @@
         }
       },
       "deps": [],
-      "version": "233-rename-interaction-variants-for-code-components"
+      "version": "234-variant-selectors-no-display-name"
     }
   ]
 ]
