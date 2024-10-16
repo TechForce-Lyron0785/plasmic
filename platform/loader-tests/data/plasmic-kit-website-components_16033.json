@@ -3248,7 +3248,7 @@
         "42180057": {
           "uuid": "D1N0JM4aVhp8",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -3813,7 +3813,7 @@
         "42180156": {
           "uuid": "bDJbRmCQJdp",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -4310,7 +4310,7 @@
         "42180229": {
           "uuid": "8uIJuuMm6Zc",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -4573,7 +4573,7 @@
         "42180286": {
           "uuid": "JlIih-kn6lW",
           "name": "",
-          "selectors": ["Focused"],
+          "selectors": [":focus"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -7451,7 +7451,7 @@
         "42180753": {
           "uuid": "Y6htvu4FMyM",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -7473,7 +7473,7 @@
         "42180757": {
           "uuid": "6SAshuwzYVP",
           "name": "",
-          "selectors": ["Pressed"],
+          "selectors": [":active"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -8188,7 +8188,7 @@
         "42180918": {
           "uuid": "mtULWGTGYHK",
           "name": "",
-          "selectors": ["Focused"],
+          "selectors": [":focus"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -8214,7 +8214,7 @@
         "42180922": {
           "uuid": "_5E1KbKXTEV",
           "name": "",
-          "selectors": ["Focus Visible"],
+          "selectors": [":focus-visible"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -18354,7 +18354,7 @@
         "42182720": {
           "uuid": "b5AGChMbDMG-",
           "name": "",
-          "selectors": ["Focused"],
+          "selectors": [":focus"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -29467,7 +29467,7 @@
         "42184862": {
           "uuid": "dne3bpwzTdf5",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -93973,7 +93973,7 @@
         "42196873": {
           "uuid": "fO3RgRhXTdKa",
           "name": "",
-          "selectors": ["Hover"],
+          "selectors": [":hover"],
           "parent": null,
           "mediaQuery": null,
           "description": null,
@@ -150809,7 +150809,7 @@
         }
       },
       "deps": [],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ]
 ]

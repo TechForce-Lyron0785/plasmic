@@ -9874,7 +9874,7 @@
         }
       },
       "deps": [],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ],
   [
@@ -68283,7 +68283,7 @@
         }
       },
       "deps": [],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ],
   [
@@ -71934,7 +71934,7 @@
         }
       },
       "deps": [],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ],
   [
@@ -73308,7 +73308,7 @@
         }
       },
       "deps": [],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ],
   [
@@ -90544,7 +90544,7 @@
         "94c46d52-8cf6-4c20-99a3-c1b07d8da700",
         "2326a2b2-06cb-44c4-8be8-3c85f4fbe531"
       ],
-      "version": "234-variant-selectors-no-display-name"
+      "version": "235-variant-selectors-no-display-name-corrected"
     }
   ]
 ]
