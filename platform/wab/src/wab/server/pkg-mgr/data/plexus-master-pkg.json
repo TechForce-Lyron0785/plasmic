@@ -683,6 +683,8 @@
           "displayName": "Aria Select",
           "importName": "BaseSelect",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -696,10 +698,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "SzAFj85kH0H-": {
           "type": { "__ref": "NB4oXy8ZAwkl" },
@@ -750,6 +750,8 @@
           "displayName": "Aria Selected Value",
           "importName": "SelectValue",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -763,10 +765,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "GWj5JJWFzWni": {
           "type": { "__ref": "tYMCEOLdNH-6" },
@@ -1071,6 +1071,8 @@
           "displayName": "Aria ComboBox",
           "importName": "BaseComboBox",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1084,10 +1086,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "GjRDnMcaRXaP": {
           "type": { "__ref": "9YrXUu8E3eeU" },
@@ -1139,6 +1139,8 @@
           "displayName": "Aria Button",
           "importName": "BaseButton",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1152,10 +1154,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "0ibkgq3bUOFQ": {
           "type": { "__ref": "QCEZh5hJMYAL" },
@@ -1207,6 +1207,8 @@
           "displayName": "Aria Label",
           "importName": "BaseLabel",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1220,10 +1222,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "PZ9BCkHjBrWo": {
           "type": { "__ref": "23gTjASARrOH" },
@@ -1319,6 +1319,8 @@
           "displayName": "Aria ListBox",
           "importName": "BaseListBox",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1332,10 +1334,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "j5m6tZY9NfXM": {
           "type": { "__ref": "c81xJcY6TvZJ" },
@@ -1386,6 +1386,8 @@
           "displayName": "Aria ListBoxItem",
           "importName": "BaseListBoxItem",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1399,10 +1401,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "XfGE6ZvU-5vx": {
           "type": { "__ref": "210Dxwu6pW5u" },
@@ -1514,6 +1514,8 @@
           "displayName": "Aria Popover",
           "importName": "BasePopover",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1527,10 +1529,8 @@
           "styleSections": true,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "puzAineWfV46": {
           "tag": "div",
@@ -1561,6 +1561,8 @@
           "displayName": "Aria Input",
           "importName": "BaseInput",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1574,10 +1576,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "cYtPJFn4wwVY": {
           "type": { "__ref": "sA6pUHmKyot1" },
@@ -1629,6 +1629,8 @@
           "displayName": "Aria Section",
           "importName": "BaseSection",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1642,10 +1644,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "mN3ejq_HKVAS": {
           "tag": "div",
@@ -1676,6 +1676,8 @@
           "displayName": "Aria Header",
           "importName": "BaseHeader",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -1689,10 +1691,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "UnT21XRByX3v": { "name": "any", "__type": "AnyType" },
         "xw8ZVuw39J8W": {
@@ -1805,8 +1805,8 @@
         "NB4oXy8ZAwkl": {
           "name": "className",
           "selectors": [{ "__ref": "w0qtC-OKi1rB" }],
-          "__type": "ClassNamePropType",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "ClassNamePropType"
         },
         "_Zqu7K4ncsFr": {
           "name": "className",
@@ -2035,8 +2035,8 @@
             { "__ref": "pDRjEJyOXbHx" },
             { "__ref": "ydqOqSaiheND" }
           ],
-          "__type": "ClassNamePropType",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "ClassNamePropType"
         },
         "Y94ez_8sP_p7": {
           "name": "className",
@@ -2079,8 +2079,8 @@
             { "__ref": "CAveb6Wcfiuk" },
             { "__ref": "Mpbme_pkcTXX" }
           ],
-          "__type": "ClassNamePropType",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "ClassNamePropType"
         },
         "LY3k4vtsYEjV": {
           "name": "className",
@@ -2249,8 +2249,8 @@
         "w0qtC-OKi1rB": {
           "selector": ":self[data-placeholder]",
           "label": "Placeholder",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "pOAAZ-oX0YUu": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -2343,14 +2343,14 @@
         "pDRjEJyOXbHx": {
           "selector": ":self[data-focused]",
           "label": "Focused",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "ydqOqSaiheND": {
           "selector": ":self[data-focus-visible]",
           "label": "Focused by keyboard",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "q8QQroRph1W5": {
           "variants": [{ "__ref": "z0MDoJ3LPKkL" }],
@@ -2382,20 +2382,20 @@
         "U9ypG7OoWRHb": {
           "selector": ":self[data-selected]",
           "label": "Selected",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "CAveb6Wcfiuk": {
           "selector": ":self[data-focused], :self[data-hovered]",
           "label": "Focused",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "Mpbme_pkcTXX": {
           "selector": ":self[data-disabled]",
           "label": "Disabled",
-          "__type": "LabeledSelector",
-          "defaultStyles": {}
+          "defaultStyles": {},
+          "__type": "LabeledSelector"
         },
         "-QeAYApHLbc-": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -3695,6 +3695,8 @@
           "displayName": "Aria Switch",
           "importName": "BaseSwitch",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -3708,10 +3710,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "9wdK_yW9iugJ": {
           "type": { "__ref": "bqkLd3Vfmo6k" },
@@ -3803,6 +3803,8 @@
           "displayName": "Aria Form",
           "importName": "BaseForm",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -3816,10 +3818,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "YX5V7DSVkRoK": {
           "type": { "__ref": "AkKld4LRiNk3" },
@@ -4326,6 +4326,8 @@
           "displayName": "Aria Checkbox",
           "importName": "BaseCheckbox",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -4339,10 +4341,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "Hd87sCoxMqAI": {
           "type": { "__ref": "JLDt7Ht9jxi4" },
@@ -4605,6 +4605,8 @@
           "displayName": "Aria Checkbox Group",
           "importName": "BaseCheckboxGroup",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -4618,10 +4620,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "4Eohy4c7NV8X": {
           "type": { "__ref": "vQ9zQxK0z7mb" },
@@ -4852,6 +4852,8 @@
           "displayName": "Aria Field Error",
           "importName": "BaseFieldError",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -4865,10 +4867,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "mQybuOmnjy0d": {
           "type": { "__ref": "yeZ9Fa326no9" },
@@ -5375,6 +5375,8 @@
           "displayName": "Aria Checkbox",
           "importName": "BaseCheckbox",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -5388,10 +5390,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "2zqU4dPOH4RS": {
           "type": { "__ref": "6MliTmnT9a0o" },
@@ -5443,6 +5443,8 @@
           "displayName": "Aria Label",
           "importName": "BaseLabel",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -5456,10 +5458,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "30GwDGy6rOYV": {
           "type": { "__ref": "9gsT3AdG72lX" },
@@ -5531,6 +5531,8 @@
           "displayName": "Aria Description",
           "importName": "BaseText",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -5544,10 +5546,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "urzSbhmvbFBC": {
           "type": { "__ref": "75ylprhd7LSQ" },
@@ -5861,6 +5861,8 @@
           "displayName": "Aria RadioGroup",
           "importName": "BaseRadioGroup",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -5874,10 +5876,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "KzZVgo-fR_AA": {
           "type": { "__ref": "6CCNSbRsm7Pq" },
@@ -6108,6 +6108,8 @@
           "displayName": "Aria Field Error",
           "importName": "BaseFieldError",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -6121,10 +6123,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "-Glbv4tUOKPK": {
           "type": { "__ref": "RQ7TCS0uvbch" },
@@ -6511,6 +6511,8 @@
           "displayName": "Aria Radio",
           "importName": "BaseRadio",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -6524,10 +6526,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "E8hQj5lxDsDH": {
           "type": { "__ref": "8h337BbMlJ-k" },
@@ -6579,6 +6579,8 @@
           "displayName": "Aria Label",
           "importName": "BaseLabel",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -6592,10 +6594,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "WyV_whFJp8KN": {
           "type": { "__ref": "wIYzhSTjN5B9" },
@@ -6667,6 +6667,8 @@
           "displayName": "Aria Description",
           "importName": "BaseText",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -6680,10 +6682,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "Inp2OMENi_GO": {
           "type": { "__ref": "92gyagHzSp_-" },
@@ -7157,6 +7157,8 @@
           "displayName": "Aria TextField",
           "importName": "BaseTextField",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7170,10 +7172,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "vMmnpAMHzFl-": {
           "type": { "__ref": "F40lnYVTJ5bq" },
@@ -7404,6 +7404,8 @@
           "displayName": "Aria Field Error",
           "importName": "BaseFieldError",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7417,10 +7419,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "qbPNwYd9OCA8": {
           "type": { "__ref": "eshQhkPHot-R" },
@@ -7471,6 +7471,8 @@
           "displayName": "Aria Input",
           "importName": "BaseInput",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7484,10 +7486,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "DsLTfhUZNMnG": {
           "type": { "__ref": "RF7EryESok3U" },
@@ -7539,6 +7539,8 @@
           "displayName": "Aria Label",
           "importName": "BaseLabel",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7552,10 +7554,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "7_v3nfq5Y8F-": {
           "type": { "__ref": "k3EMxhmojou3" },
@@ -7627,6 +7627,8 @@
           "displayName": "Aria Text",
           "importName": "BaseText",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7640,10 +7642,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "sur4daqMQoe9": {
           "type": { "__ref": "zCy2Z5g2UJ2v" },
@@ -7694,6 +7694,8 @@
           "displayName": "Aria TextArea",
           "importName": "BaseTextArea",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -7707,10 +7709,8 @@
           "styleSections": null,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "075lsMxYQaRq": { "name": "bool", "__type": "BoolType" },
         "i0Q_D-3yFYoY": {
@@ -9874,7 +9874,7 @@
         }
       },
       "deps": [],
-      "version": "235-variant-selectors-no-display-name-corrected"
+      "version": "236-rename-duplicated-components"
     }
   ],
   [
@@ -10031,6 +10031,8 @@
           "displayName": "Page Metadata Override",
           "importName": "PlasmicHead",
           "description": "Set page metadata (HTML <head />) to dynamic values.",
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -10044,10 +10046,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "faMWzDCt52Mv": {
           "uuid": "p3UWaNRJcdGc",
@@ -10289,6 +10289,8 @@
           "displayName": "Data Fetcher",
           "importName": "Fetcher",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -10302,10 +10304,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "VIXXx8oP5tIG": {
           "uuid": "n2LpPFmLp1pv",
@@ -68283,7 +68283,7 @@
         }
       },
       "deps": [],
-      "version": "235-variant-selectors-no-display-name-corrected"
+      "version": "236-rename-duplicated-components"
     }
   ],
   [
@@ -68440,6 +68440,8 @@
           "displayName": "Page Metadata Override",
           "importName": "PlasmicHead",
           "description": "Set page metadata (HTML <head />) to dynamic values.",
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -68453,10 +68455,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "HvgEVb-ojK0m": {
           "uuid": "vo5pW2Cq7_Im",
@@ -68698,6 +68698,8 @@
           "displayName": "Data Fetcher",
           "importName": "Fetcher",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -68711,10 +68713,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "1ZGo9S_VkmkP": {
           "uuid": "5Yx7dsOC4vrj",
@@ -71934,7 +71934,7 @@
         }
       },
       "deps": [],
-      "version": "235-variant-selectors-no-display-name-corrected"
+      "version": "236-rename-duplicated-components"
     }
   ],
   [
@@ -72091,6 +72091,8 @@
           "displayName": "Page Metadata Override",
           "importName": "PlasmicHead",
           "description": "Set page metadata (HTML <head />) to dynamic values.",
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -72104,10 +72106,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "816cFxaQXdLh": {
           "uuid": "YdUVCUmnqpDT",
@@ -72349,6 +72349,8 @@
           "displayName": "Data Fetcher",
           "importName": "Fetcher",
           "description": null,
+          "section": null,
+          "thumbnailUrl": null,
           "classNameProp": null,
           "refProp": null,
           "defaultStyles": null,
@@ -72362,10 +72364,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "thumbnailUrl": null,
-          "section": null,
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "jCaNiiDTDY6I": {
           "uuid": "zbDhFqKdVGov",
@@ -73308,7 +73308,7 @@
         }
       },
       "deps": [],
-      "version": "235-variant-selectors-no-display-name-corrected"
+      "version": "236-rename-duplicated-components"
     }
   ],
   [
@@ -76372,8 +76372,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "9OPlBH7Vlyhw": {
           "uuid": "XRWhX_dFrUkG",
@@ -76630,8 +76630,8 @@
           "styleSections": false,
           "helpers": null,
           "defaultSlotContents": {},
-          "__type": "CodeComponentMeta",
-          "variants": {}
+          "variants": {},
+          "__type": "CodeComponentMeta"
         },
         "qNIyguRZCAIF": {
           "uuid": "3qrJkZwFQ2rE",
@@ -90544,7 +90544,7 @@
         "94c46d52-8cf6-4c20-99a3-c1b07d8da700",
         "2326a2b2-06cb-44c4-8be8-3c85f4fbe531"
       ],
-      "version": "235-variant-selectors-no-display-name-corrected"
+      "version": "236-rename-duplicated-components"
     }
   ]
 ]
