@@ -30,7 +30,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "6FcK7w9aJz6N": {
           "components": [
@@ -675,7 +677,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "atqSD_EnHlIa": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerSelect",
@@ -742,7 +746,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "nC-qHkXPQ32X": {
           "importPath": "@plasmicpkgs/react-aria/registerSelect",
@@ -1063,7 +1069,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "O_-pap6tBvaQ": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerComboBox",
@@ -1131,7 +1139,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "70yIMb0vXdRx": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerButton",
@@ -1199,7 +1209,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "RslJbN65S6Tg": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerLabel",
@@ -1311,7 +1323,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "q7uhvY3-fnSy": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerListBox",
@@ -1378,7 +1392,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "9MiDlui3UgQH": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerListBoxItem",
@@ -1506,7 +1522,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "LWHkaabbvV7l": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerPopover",
@@ -1553,7 +1571,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "JBz0FkcXO-1t": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerInput",
@@ -1621,7 +1641,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "vcdEubhhm0DW": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerSection",
@@ -1668,7 +1690,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "qzHrrqfOXBFc": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerHeader",
@@ -3687,7 +3711,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "O7oIq4UrzAnr": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerSwitch",
@@ -3795,7 +3821,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "smzpBysW7fkx": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerForm",
@@ -4318,7 +4346,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "iNtLPAeZEVR4": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerCheckbox",
@@ -4597,7 +4627,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "rAGruWf6-k8L": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerCheckboxGroup",
@@ -4844,7 +4876,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "m7kD6rTQoS79": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerFieldError",
@@ -5367,7 +5401,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "BVp6j709NnRO": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerCheckbox",
@@ -5435,7 +5471,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "lbnAl5OyHaFJ": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerLabel",
@@ -5523,7 +5561,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "SpKZirjhiCKp": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerText",
@@ -5853,7 +5893,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Yf_Ubj1bh3v1": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerRadioGroup",
@@ -6100,7 +6142,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "52k-oPsyLyvZ": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerFieldError",
@@ -6503,7 +6547,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "yU1joK5WLuqG": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerRadio",
@@ -6571,7 +6617,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "T_7ERkRIeIvg": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerLabel",
@@ -6659,7 +6707,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "J0eBCRmDLZFi": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerText",
@@ -7149,7 +7199,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "6U0-PJoz2uto": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerTextField",
@@ -7396,7 +7448,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "L9YZCiwIK4Xf": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerFieldError",
@@ -7463,7 +7517,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "s1lO3SBVEy60": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerInput",
@@ -7531,7 +7587,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "PAt_nmRnBUMe": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerLabel",
@@ -7619,7 +7677,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "rlu-6teTWZl0": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerText",
@@ -7686,7 +7746,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "1bljTh0oQAE4": {
           "importPath": "@plasmicpkgs/react-aria/skinny/registerTextArea",
@@ -9874,7 +9936,7 @@
         }
       },
       "deps": [],
-      "version": "236-rename-duplicated-components"
+      "version": "237-code-component-variants"
     }
   ],
   [
@@ -9994,7 +10056,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "pTFxxIHTG7RK": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -10231,7 +10295,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "MoeFQEMnrOnj": { "values": {}, "mixins": [], "__type": "RuleSet" },
         "FFedfQZG2R9g": {
@@ -10802,7 +10868,9 @@
           "mediaQuery": "(min-width:0px) and (max-width:768px)",
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "aMKtGB9iXPxU": {
           "type": "global-screen",
@@ -10820,7 +10888,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "7enNPillnAmv": {
           "components": [
@@ -68283,7 +68353,7 @@
         }
       },
       "deps": [],
-      "version": "236-rename-duplicated-components"
+      "version": "237-code-component-variants"
     }
   ],
   [
@@ -68403,7 +68473,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "UPiJ_X5L29ue": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -68640,7 +68712,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "52S2B2hlC2je": { "values": {}, "mixins": [], "__type": "RuleSet" },
         "WW6SlzE3L4T7": {
@@ -69211,7 +69285,9 @@
           "mediaQuery": "(min-width:0px) and (max-width:768px)",
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "5CbMyGpO78tG": {
           "type": "global-screen",
@@ -69229,7 +69305,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "miu1RQCVFWbp": {
           "components": [
@@ -71934,7 +72012,7 @@
         }
       },
       "deps": [],
-      "version": "236-rename-duplicated-components"
+      "version": "237-code-component-variants"
     }
   ],
   [
@@ -72054,7 +72132,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "yD41Eb06WZH2": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -72291,7 +72371,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "fhSkwTnWAJU-": { "values": {}, "mixins": [], "__type": "RuleSet" },
         "3lDWSIzm09EL": {
@@ -72862,7 +72944,9 @@
           "mediaQuery": "(min-width:0px) and (max-width:768px)",
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "dS3MRVTuFH_c": {
           "type": "global-screen",
@@ -72880,7 +72964,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Koj-TjxMPfLW": {
           "components": [
@@ -73308,7 +73394,7 @@
         }
       },
       "deps": [],
-      "version": "236-rename-duplicated-components"
+      "version": "237-code-component-variants"
     }
   ],
   [
@@ -73390,7 +73476,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "iBL987VIU5dg": {
           "param": { "__ref": "sizqNpDouVxt" },
@@ -76320,7 +76408,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "hxAiInsYzQI3": {
           "values": { "display": "flex", "flex-direction": "row" },
@@ -76557,7 +76647,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "8LDUvZ6NTvTc": { "values": {}, "mixins": [], "__type": "RuleSet" },
         "GpbBvWHDtkKF": {
@@ -77099,7 +77191,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "dyjctuVmzsPt": {
           "uuid": "ElAcKvOPVrt_",
@@ -77109,7 +77203,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "_YrG16bYHZub": {
           "uuid": "efeAPoJ1oINK",
@@ -77119,7 +77215,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "eJ8ITuIeDm-A": {
           "uuid": "ZTAtqDdfpJ6V",
@@ -77129,7 +77227,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "E-E21T5DHLPE": {
           "uuid": "QreB80vUAEdU",
@@ -77139,7 +77239,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "M78nvrs_uTeT": {
           "type": "component",
@@ -77163,7 +77265,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Bl4JKE75Bae6": {
           "uuid": "nbC0trLQy9F7",
@@ -77173,7 +77277,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "5MS_iXT4yR9P": {
           "uuid": "nhG-daTgm3x4",
@@ -77183,7 +77289,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "ih2TTTSQNBxZ": {
           "uuid": "EIjFLB9sIb_W",
@@ -77193,7 +77301,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "vUx9H79E7ZoC": {
           "type": "component",
@@ -78445,7 +78555,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "JYi9bhyTYjsP": {
           "uuid": "IhLZvZS0EZph",
@@ -78455,7 +78567,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "a7NOW9REhhCM": {
           "type": "component",
@@ -78474,7 +78588,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "g1WedashWoF0": {
           "type": "component",
@@ -79193,7 +79309,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "-vIymxp-t_bG": {
           "uuid": "Ks6ufdlA3iaF",
@@ -79203,7 +79321,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "wpuJHbQ-RaL5": {
           "uuid": "fzrrKsvfS45z",
@@ -79213,7 +79333,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "OVnZQpXMCurM": {
           "type": "component",
@@ -79732,7 +79854,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "BM_UY9ewKUzh": {
           "param": { "__ref": "TjWWPNtbBuZF" },
@@ -80159,7 +80283,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "lDOdhWwcVRXQ": {
           "markers": [],
@@ -80477,7 +80603,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "yvr8pJu_v8Oi": {
           "param": { "__ref": "777BFbBmj7bh" },
@@ -80694,7 +80822,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "wrV4o7pG_7AJ": {
           "values": {
@@ -80776,7 +80906,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Z89lFqhvpvGT": { "tpl": [], "__type": "VirtualRenderExpr" },
         "ETgcy193v7KY": {
@@ -80855,7 +80987,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "vvxVmLwFY1Ud": {
           "values": {
@@ -81463,7 +81597,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Ep6sB73-N2Z1": {
           "uuid": "yOSLgaBB3FNm",
@@ -81473,7 +81609,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "_r0WaQ75vKgH": {
           "type": "component",
@@ -82326,7 +82464,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "3VHAOskgEecc": {
           "uuid": "74LffBJ8X5yZ",
@@ -82336,7 +82476,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "EYcw9_Lg5t0d": {
           "type": "component",
@@ -83272,7 +83414,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "oLLXK6dgfKhB": {
           "param": { "__ref": "7n0SkB3MBHfw" },
@@ -83938,7 +84082,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "yM2FbZY7E65L": {
           "param": { "__ref": "QL68ij1-1LBr" },
@@ -84647,7 +84793,9 @@
           "mediaQuery": "(min-width:0px) and (max-width:768px)",
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "jYFeYLo8d5dF": {
           "type": "global-screen",
@@ -86301,7 +86449,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Y5TX1GddfPuh": {
           "name": "background",
@@ -87244,7 +87394,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "mnuKO8xqdE1a": {
           "path": "/buttons",
@@ -87439,7 +87591,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "Zyb7KT6GcNCu": {
           "path": "/checkboxes",
@@ -90191,7 +90345,9 @@
           "mediaQuery": null,
           "description": null,
           "forTpl": null,
-          "__type": "Variant"
+          "__type": "Variant",
+          "codeComponentName": null,
+          "codeComponentVariantKeys": null
         },
         "r_olr50udvsK": {
           "path": "/text-inputs",
@@ -90544,7 +90700,7 @@
         "94c46d52-8cf6-4c20-99a3-c1b07d8da700",
         "2326a2b2-06cb-44c4-8be8-3c85f4fbe531"
       ],
-      "version": "236-rename-duplicated-components"
+      "version": "237-code-component-variants"
     }
   ]
 ]
