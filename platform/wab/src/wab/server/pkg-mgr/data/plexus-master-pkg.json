@@ -13262,7 +13262,7 @@
         }
       },
       "deps": [],
-      "version": "239-add-server-queries"
+      "version": "240-set-plume-default-component"
     }
   ],
   [
@@ -71681,7 +71681,7 @@
         }
       },
       "deps": [],
-      "version": "239-add-server-queries"
+      "version": "240-set-plume-default-component"
     }
   ],
   [
@@ -75342,7 +75342,7 @@
         }
       },
       "deps": [],
-      "version": "239-add-server-queries"
+      "version": "240-set-plume-default-component"
     }
   ],
   [
@@ -76726,7 +76726,7 @@
         }
       },
       "deps": [],
-      "version": "239-add-server-queries"
+      "version": "240-set-plume-default-component"
     }
   ],
   [
@@ -150419,7 +150419,7 @@
         "94c46d52-8cf6-4c20-99a3-c1b07d8da700",
         "7eccdbac-52ea-4d62-bb58-e87eb38915e1"
       ],
-      "version": "239-add-server-queries"
+      "version": "240-set-plume-default-component"
     }
   ]
 ]
