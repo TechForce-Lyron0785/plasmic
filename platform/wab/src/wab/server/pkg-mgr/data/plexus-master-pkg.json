@@ -13467,7 +13467,7 @@
         }
       },
       "deps": [],
-      "version": "242-remove-duplicate-variants"
+      "version": "243-merge-duplicate-variants"
     }
   ],
   [
@@ -17128,7 +17128,7 @@
         }
       },
       "deps": [],
-      "version": "242-remove-duplicate-variants"
+      "version": "243-merge-duplicate-variants"
     }
   ],
   [
@@ -75547,7 +75547,7 @@
         }
       },
       "deps": [],
-      "version": "242-remove-duplicate-variants"
+      "version": "243-merge-duplicate-variants"
     }
   ],
   [
@@ -76920,7 +76920,7 @@
         }
       },
       "deps": [],
-      "version": "242-remove-duplicate-variants"
+      "version": "243-merge-duplicate-variants"
     }
   ],
   [
@@ -148272,7 +148272,7 @@
         "19c48945-39dc-40d6-9321-7afea93b53d2",
         "80d9da93-8ca7-4525-aeec-cc43c0c8feb2"
       ],
-      "version": "242-remove-duplicate-variants"
+      "version": "243-merge-duplicate-variants"
     }
   ]
 ]
