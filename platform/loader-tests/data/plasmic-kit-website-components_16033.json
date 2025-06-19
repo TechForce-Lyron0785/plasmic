@@ -5599,7 +5599,9 @@
         "42180453": {
           "page": { "__ref": "42180454" },
           "params": {},
-          "__type": "PageHref"
+          "__type": "PageHref",
+          "query": {},
+          "fragment": null
         },
         "42180454": {
           "uuid": "hmkBqlSLwWbP",
@@ -21701,7 +21703,9 @@
         "42183338": {
           "page": { "__ref": "42183339" },
           "params": {},
-          "__type": "PageHref"
+          "__type": "PageHref",
+          "query": {},
+          "fragment": null
         },
         "42183339": {
           "uuid": "J9QAA-Pwrydu",
@@ -151249,7 +151253,7 @@
         }
       },
       "deps": [],
-      "version": "246-add-component-updated-at"
+      "version": "247-add-page-href-query-fragment"
     }
   ]
 ]
