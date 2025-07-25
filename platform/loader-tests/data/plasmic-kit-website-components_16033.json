@@ -4156,7 +4156,8 @@
           "required": false,
           "mergeWithParent": false,
           "isLocalizable": false,
-          "__type": "PropParam"
+          "__type": "PropParam",
+          "advanced": false
         },
         "42180203": { "name": "Link", "uuid": "5jItoV2qGsd", "__type": "Var" },
         "42180204": { "name": "href", "__type": "HrefType" },
@@ -7363,7 +7364,8 @@
           "required": false,
           "mergeWithParent": false,
           "isLocalizable": false,
-          "__type": "PropParam"
+          "__type": "PropParam",
+          "advanced": false
         },
         "42180737": { "name": "href", "uuid": "CQx3OXpKifu", "__type": "Var" },
         "42180738": { "name": "href", "__type": "HrefType" },
@@ -29178,7 +29180,8 @@
           "required": false,
           "mergeWithParent": false,
           "isLocalizable": false,
-          "__type": "PropParam"
+          "__type": "PropParam",
+          "advanced": false
         },
         "42184799": { "name": "Dest", "uuid": "K3sPCS8wm5Uz", "__type": "Var" },
         "42184800": { "name": "href", "__type": "HrefType" },
@@ -94242,7 +94245,8 @@
           "required": false,
           "mergeWithParent": false,
           "isLocalizable": false,
-          "__type": "PropParam"
+          "__type": "PropParam",
+          "advanced": false
         },
         "42196857": {
           "name": "Destination",
@@ -151253,7 +151257,7 @@
         }
       },
       "deps": [],
-      "version": "247-add-page-href-query-fragment"
+      "version": "248-add-prop-param-advanced"
     }
   ]
 ]
