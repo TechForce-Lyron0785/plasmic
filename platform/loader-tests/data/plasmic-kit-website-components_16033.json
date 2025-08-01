@@ -2645,7 +2645,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "42180002": {
           "uuid": "iGFxBXZweTG",
@@ -151257,7 +151258,7 @@
         }
       },
       "deps": [],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ]
 ]

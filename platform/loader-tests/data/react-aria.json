@@ -89,7 +89,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "CS3vIoApGR62": {
           "uuid": "QswWn7k1U7ET",
@@ -13722,7 +13723,7 @@
         }
       },
       "deps": [],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ],
   [
@@ -19940,7 +19941,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "p6JdFSe1bg4Y": {
           "uuid": "gNlomXK4f57e",
@@ -72153,7 +72155,7 @@
         }
       },
       "deps": [],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ],
   [
@@ -73393,7 +73395,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "7PsjmGfd1FAP": {
           "name": "slate-50",
@@ -75826,7 +75829,7 @@
         }
       },
       "deps": [],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ],
   [
@@ -76858,7 +76861,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "vQMQs5lKnsE7": {
           "name": "0.5",
@@ -77211,7 +77215,7 @@
         }
       },
       "deps": [],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ],
   [
@@ -77896,7 +77900,8 @@
           "pageWrapper": null,
           "customFunctions": [],
           "codeLibraries": [],
-          "__type": "Site"
+          "__type": "Site",
+          "styleTokenOverrides": []
         },
         "6w3Oa2E8IQJz": {
           "name": "Custom arena 1",
@@ -164333,7 +164338,7 @@
         "2d51fb11-0cd3-4f8c-a176-8c1b2d18d5c1",
         "d48fbfec-b261-464b-b3a1-53796dd4c374"
       ],
-      "version": "248-add-prop-param-advanced"
+      "version": "249-add-style-token-overrides"
     }
   ]
 ]
