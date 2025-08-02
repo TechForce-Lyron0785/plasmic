@@ -3354,7 +3354,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -3416,11 +3416,11 @@
             "align-items": "center",
             "justify-content": "center",
             "height": "64px",
-            "flex-column-gap": "16px",
             "position": "relative",
             "padding-left": "12px",
             "padding-right": "12px",
-            "background": "linear-gradient(#18191A, #18191A)"
+            "background": "linear-gradient(#18191A, #18191A)",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -6374,7 +6374,7 @@
             "flex-direction": "column",
             "align-items": "center",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -6515,14 +6515,14 @@
             "display": "flex",
             "flex-direction": "column",
             "align-items": "center",
-            "flex-row-gap": "32px",
             "padding-top": "24px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "position": "relative",
             "width": "stretch",
-            "justify-content": "space-between"
+            "justify-content": "space-between",
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -6853,8 +6853,8 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "4px",
-            "position": "relative"
+            "position": "relative",
+            "column-gap": "4px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -7208,7 +7208,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -8114,7 +8114,6 @@
             "border-right-style": "none",
             "border-bottom-style": "none",
             "border-left-style": "none",
-            "flex-column-gap": "8px",
             "transition-property": "all",
             "transition-timing-function": "ease",
             "transition-duration": "0.2s",
@@ -8122,7 +8121,8 @@
             "align-items": "center",
             "justify-content": "center",
             "height": "wrap",
-            "background": "linear-gradient(var(--token-maWCPk1v_oCK), var(--token-maWCPk1v_oCK))"
+            "background": "linear-gradient(var(--token-maWCPk1v_oCK), var(--token-maWCPk1v_oCK))",
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -9460,7 +9460,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -10193,7 +10193,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -10904,7 +10904,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -11124,13 +11124,13 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
             "justify-content": "center",
             "padding-top": "0px",
             "padding-right": "16px",
             "padding-bottom": "0px",
             "padding-left": "16px",
-            "max-width": "1280px"
+            "max-width": "1280px",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -11150,7 +11150,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "20px"
+            "row-gap": "20px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18060,8 +18060,8 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "24px",
-            "align-items": "center"
+            "align-items": "center",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18309,9 +18309,9 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "4px",
             "flex-grow": "1",
-            "width": "stretch"
+            "width": "stretch",
+            "row-gap": "4px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18636,8 +18636,8 @@
             "align-items": "stretch",
             "justify-content": "flex-start",
             "width": "stretch",
-            "flex-column-gap": "8px",
-            "flex-row-gap": "8px"
+            "column-gap": "8px",
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18657,8 +18657,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-column-gap": "0px",
-            "flex-row-gap": "8px"
+            "column-gap": "0px",
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18679,9 +18679,9 @@
             "display": "flex",
             "position": "relative",
             "width": "stretch",
-            "flex-column-gap": "8px",
             "justify-content": "flex-start",
-            "align-items": "flex-start"
+            "align-items": "flex-start",
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -18706,8 +18706,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "8px",
-            "flex-column-gap": "0px"
+            "column-gap": "0px",
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -19737,7 +19737,7 @@
             "display": "flex",
             "flex-direction": "row",
             "align-items": "flex-start",
-            "flex-column-gap": "24px"
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -22002,7 +22002,7 @@
             "align-items": "stretch",
             "justify-content": "flex-start",
             "width": "stretch",
-            "flex-row-gap": "32px"
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -22353,7 +22353,7 @@
             "padding-right": "32px",
             "padding-top": "128px",
             "padding-bottom": "128px",
-            "flex-row-gap": "32px"
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -23108,9 +23108,9 @@
             "justify-content": "center",
             "align-items": "center",
             "flex-direction": "row",
-            "flex-column-gap": "20px",
             "flex-wrap": "wrap",
-            "flex-row-gap": "20px"
+            "column-gap": "20px",
+            "row-gap": "20px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -23409,9 +23409,9 @@
             "justify-content": "center",
             "align-items": "center",
             "flex-direction": "row",
-            "flex-column-gap": "20px",
             "flex-wrap": "wrap",
-            "flex-row-gap": "20px"
+            "column-gap": "20px",
+            "row-gap": "20px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -23443,7 +23443,7 @@
             "padding-right": "32px",
             "padding-top": "128px",
             "padding-bottom": "256px",
-            "flex-row-gap": "32px"
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -23464,8 +23464,8 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "24px",
-            "align-items": "center"
+            "align-items": "center",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -23673,7 +23673,7 @@
             "display": "flex",
             "flex-direction": "row",
             "align-items": "flex-start",
-            "flex-column-gap": "24px"
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -23716,9 +23716,9 @@
         "42183756": {
           "values": {
             "display": "flex",
-            "flex-column-gap": "24px",
-            "flex-row-gap": "24px",
-            "flex-wrap": "wrap"
+            "flex-wrap": "wrap",
+            "column-gap": "24px",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -24349,9 +24349,9 @@
           "values": {
             "flex-wrap": "wrap",
             "justify-content": "flex-start",
-            "flex-row-gap": "48px",
             "align-content": "flex-start",
-            "margin-left": "-10px"
+            "margin-left": "-10px",
+            "row-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -24386,8 +24386,8 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "24px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -24421,8 +24421,8 @@
             "position": "relative",
             "flex-direction": "column",
             "justify-content": "space-between",
-            "flex-row-gap": "24px",
-            "width": "stretch"
+            "width": "stretch",
+            "row-gap": "24px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -24646,7 +24646,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -25346,8 +25346,8 @@
             "display": "flex",
             "position": "relative",
             "align-items": "stretch",
-            "flex-column-gap": "8px",
-            "align-self": "center"
+            "align-self": "center",
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -26686,7 +26686,7 @@
             "padding-right": "8px",
             "padding-bottom": "8px",
             "padding-left": "8px",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -27970,7 +27970,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -28145,8 +28145,8 @@
             "flex-direction": "column",
             "align-items": "center",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px",
-            "max-width": "850px"
+            "max-width": "850px",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -28168,8 +28168,8 @@
             "position": "relative",
             "height": "wrap",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -29384,7 +29384,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -29964,7 +29964,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -30042,10 +30042,10 @@
             "padding-left": "24px",
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
             "position": "relative",
             "width": "320px",
-            "min-width": "320px"
+            "min-width": "320px",
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -34501,8 +34501,8 @@
             "display": "flex",
             "position": "relative",
             "align-items": "flex-end",
-            "flex-column-gap": "24px",
-            "align-self": "stretch"
+            "align-self": "stretch",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -38568,10 +38568,10 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "24px",
             "align-items": "flex-start",
             "margin-left": "166px",
-            "padding-right": "24px"
+            "padding-right": "24px",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -38596,8 +38596,8 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px",
-            "position": "relative"
+            "position": "relative",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -40878,8 +40878,8 @@
             "display": "flex",
             "position": "relative",
             "align-items": "flex-end",
-            "flex-column-gap": "24px",
-            "align-self": "stretch"
+            "align-self": "stretch",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -42754,10 +42754,10 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "24px",
             "align-items": "flex-start",
             "margin-left": "166px",
-            "padding-right": "24px"
+            "padding-right": "24px",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -42782,8 +42782,8 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px",
-            "position": "relative"
+            "position": "relative",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -44853,7 +44853,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "center",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -44873,9 +44873,9 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
             "align-items": "flex-start",
-            "position": "relative"
+            "position": "relative",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -45236,8 +45236,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -45406,8 +45406,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -45464,7 +45464,7 @@
             "display": "flex",
             "flex-direction": "column",
             "align-items": "stretch",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -45517,7 +45517,7 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "48px"
+            "column-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -45670,13 +45670,13 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "32px",
             "padding-top": "24px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "width": "35%",
-            "min-width": "300px"
+            "min-width": "300px",
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -46129,9 +46129,9 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "0px",
             "align-items": "flex-start",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "0px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -46200,7 +46200,7 @@
             "flex-direction": "column",
             "align-items": "center",
             "overflow": "hidden",
-            "flex-row-gap": "32px"
+            "row-gap": "32px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -47075,7 +47075,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -47682,7 +47682,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -47808,11 +47808,11 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
             "flex-wrap": "wrap",
-            "flex-row-gap": "16px",
             "justify-content": "center",
-            "position": "relative"
+            "position": "relative",
+            "column-gap": "16px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -49469,7 +49469,7 @@
             "position": "relative",
             "height": "wrap",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42188365" }],
           "__type": "RuleSet"
@@ -49508,7 +49508,7 @@
           "__type": "VariantSetting"
         },
         "42188408": {
-          "values": { "flex-wrap": "wrap", "flex-row-gap": "16px" },
+          "values": { "flex-wrap": "wrap", "row-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -49670,10 +49670,10 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "16px",
             "overflow": "auto",
             "width": "stretch",
-            "justify-content": "center"
+            "justify-content": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -49745,8 +49745,8 @@
             "position": "relative",
             "flex-direction": "column",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px",
-            "align-items": "flex-start"
+            "align-items": "flex-start",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -49955,7 +49955,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -49978,7 +49978,7 @@
             "flex-direction": "column",
             "align-items": "flex-start",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -50027,13 +50027,13 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
             "padding-top": "24px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "align-items": "flex-start",
-            "width": "stretch"
+            "width": "stretch",
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -51673,7 +51673,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -51701,7 +51701,7 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -53451,7 +53451,7 @@
             "flex-direction": "column",
             "align-items": "flex-start",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53559,8 +53559,8 @@
             "flex-direction": "row",
             "justify-content": "space-between",
             "width": "stretch",
-            "flex-column-gap": "24px",
-            "flex-row-gap": "16px"
+            "column-gap": "24px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53703,9 +53703,9 @@
             "flex-direction": "column",
             "align-items": "flex-start",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px",
-            "flex-column-gap": "0px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "0px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53725,8 +53725,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
-            "flex-row-gap": "16px"
+            "column-gap": "16px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53777,8 +53777,8 @@
         "42189152": {
           "values": {
             "width": "stretch",
-            "flex-row-gap": "16px",
-            "flex-column-gap": "0px"
+            "column-gap": "0px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53802,7 +53802,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -53838,7 +53838,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-column-gap": "0px"
+            "column-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -54564,10 +54564,10 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "16px",
             "position": "relative",
             "align-items": "flex-start",
-            "width": "stretch"
+            "width": "stretch",
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -54585,12 +54585,12 @@
         },
         "42189324": {
           "values": {
-            "flex-column-gap": "0px",
-            "flex-row-gap": "16px",
             "padding-top": "16px",
             "padding-right": "16px",
             "padding-bottom": "16px",
-            "padding-left": "16px"
+            "padding-left": "16px",
+            "column-gap": "0px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -54622,7 +54622,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -54658,8 +54658,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
-            "flex-column-gap": "0px"
+            "column-gap": "0px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -54735,8 +54735,8 @@
         "42189356": {
           "values": {
             "flex-direction": "row-reverse",
-            "flex-row-gap": "16px",
-            "flex-column-gap": "16px"
+            "column-gap": "16px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -56545,7 +56545,7 @@
           "__type": "VariantSetting"
         },
         "42189692": {
-          "values": { "display": "flex", "flex-column-gap": "16px" },
+          "values": { "display": "flex", "column-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -56564,8 +56564,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
-            "flex-column-gap": "0px"
+            "column-gap": "0px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -56585,7 +56585,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "10px"
+            "row-gap": "10px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -56618,7 +56618,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -57526,8 +57526,8 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px",
-            "align-self": "center"
+            "align-self": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -57884,15 +57884,15 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "flex-wrap": "wrap",
             "justify-content": "center",
             "width": "stretch",
-            "flex-column-gap": "48px",
-            "align-content": "flex-start"
+            "align-content": "flex-start",
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -58209,15 +58209,15 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "flex-wrap": "wrap",
             "justify-content": "center",
             "width": "stretch",
-            "flex-column-gap": "48px",
-            "align-content": "flex-start"
+            "align-content": "flex-start",
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -58630,15 +58630,15 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "flex-wrap": "wrap",
             "justify-content": "center",
             "width": "stretch",
-            "flex-column-gap": "48px",
-            "align-content": "flex-start"
+            "align-content": "flex-start",
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -58967,15 +58967,15 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "flex-wrap": "wrap",
             "justify-content": "center",
             "width": "stretch",
-            "flex-column-gap": "48px",
-            "align-content": "flex-start"
+            "align-content": "flex-start",
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -59020,7 +59020,7 @@
             "align-items": "stretch",
             "justify-content": "flex-start",
             "width": "stretch",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -59746,15 +59746,15 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "flex-wrap": "wrap",
             "justify-content": "center",
             "width": "stretch",
-            "flex-column-gap": "48px",
-            "align-content": "flex-start"
+            "align-content": "flex-start",
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -61089,10 +61089,10 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
             "flex-wrap": "wrap",
-            "flex-row-gap": "16px",
-            "justify-content": "center"
+            "justify-content": "center",
+            "column-gap": "16px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -63123,7 +63123,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -63146,12 +63146,12 @@
             "flex-direction": "column",
             "top": "auto",
             "left": "auto",
-            "flex-row-gap": "24px",
             "align-items": "center",
             "padding-top": "24px",
             "padding-right": "24px",
             "padding-bottom": "24px",
-            "padding-left": "24px"
+            "padding-left": "24px",
+            "row-gap": "24px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -63916,7 +63916,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -63948,7 +63948,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -64252,7 +64252,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -69487,8 +69487,8 @@
             "display": "flex",
             "position": "relative",
             "align-items": "flex-end",
-            "flex-column-gap": "24px",
-            "align-self": "stretch"
+            "align-self": "stretch",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -72114,10 +72114,10 @@
           "values": {
             "display": "flex",
             "position": "relative",
-            "flex-column-gap": "24px",
             "align-items": "flex-start",
             "margin-left": "166px",
-            "padding-right": "24px"
+            "padding-right": "24px",
+            "column-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -72142,8 +72142,8 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px",
-            "position": "relative"
+            "position": "relative",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -72393,7 +72393,7 @@
             "justify-content": "flex-start",
             "top": "auto",
             "left": "auto",
-            "flex-row-gap": "4px"
+            "row-gap": "4px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -72551,9 +72551,9 @@
             "padding-right": "48px",
             "padding-bottom": "48px",
             "padding-left": "48px",
-            "flex-row-gap": "32px",
             "align-items": "center",
-            "background": "linear-gradient(0deg, var(--token-y9Bh92YbVK5) 0%, var(--token-fuOlnHkDJkX) 100%) 0% 0% / 100% 100% no-repeat padding-box border-box scroll"
+            "background": "linear-gradient(0deg, var(--token-y9Bh92YbVK5) 0%, var(--token-fuOlnHkDJkX) 100%) 0% 0% / 100% 100% no-repeat padding-box border-box scroll",
+            "row-gap": "32px"
           },
           "mixins": [{ "__ref": "42182640" }, { "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -72633,7 +72633,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "64px"
+            "row-gap": "64px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -73729,7 +73729,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -74768,8 +74768,8 @@
             "position": "relative",
             "flex-direction": "column",
             "justify-content": "flex-start",
-            "flex-row-gap": "4px",
-            "align-items": "flex-start"
+            "align-items": "flex-start",
+            "row-gap": "4px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -74930,7 +74930,7 @@
             "flex-direction": "column",
             "align-items": "flex-start",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -75003,14 +75003,14 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
             "padding-top": "24px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
             "align-items": "flex-start",
             "width": "stretch",
-            "position": "relative"
+            "position": "relative",
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -75707,7 +75707,7 @@
             "position": "relative",
             "flex-direction": "column",
             "align-items": "center",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -82856,8 +82856,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -83026,8 +83026,8 @@
           "values": {
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -92503,7 +92503,7 @@
             "top": "auto",
             "width": "stretch",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -92752,7 +92752,7 @@
             "top": "auto",
             "width": "stretch",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -93301,7 +93301,7 @@
             "height": "wrap",
             "left": "auto",
             "top": "auto",
-            "flex-row-gap": "10px"
+            "row-gap": "10px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -93323,9 +93323,9 @@
             "top": "auto",
             "display": "flex",
             "flex-direction": "row",
-            "flex-column-gap": "12px",
             "width": "stretch",
-            "align-items": "baseline"
+            "align-items": "baseline",
+            "column-gap": "12px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -93495,8 +93495,8 @@
             "height": "wrap",
             "justify-content": "space-between",
             "position": "relative",
-            "flex-column-gap": "13px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "13px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -93516,7 +93516,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "12px"
+            "row-gap": "12px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -94454,7 +94454,6 @@
             "align-items": "stretch",
             "justify-content": "flex-start",
             "position": "relative",
-            "flex-row-gap": "4px",
             "padding-top": "10px",
             "padding-right": "10px",
             "padding-bottom": "10px",
@@ -94475,7 +94474,8 @@
             "border-top-right-radius": "4px",
             "border-bottom-right-radius": "4px",
             "border-bottom-left-radius": "4px",
-            "height": "stretch"
+            "height": "stretch",
+            "row-gap": "4px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -95044,8 +95044,8 @@
             "width": "stretch",
             "height": "wrap",
             "align-items": "stretch",
-            "flex-column-gap": "20px",
-            "flex-row-gap": "0px"
+            "column-gap": "20px",
+            "row-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -95064,8 +95064,8 @@
         "42197034": {
           "values": {
             "flex-direction": "column",
-            "flex-row-gap": "20px",
-            "flex-column-gap": "0px"
+            "column-gap": "0px",
+            "row-gap": "20px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -95088,8 +95088,8 @@
             "width": "stretch",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "32px",
-            "max-width": "800px"
+            "max-width": "800px",
+            "row-gap": "32px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -95277,7 +95277,7 @@
             "padding-right": "16px",
             "padding-bottom": "16px",
             "padding-left": "16px",
-            "flex-column-gap": "8px"
+            "column-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -95425,8 +95425,8 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px",
-            "overflow": "hidden"
+            "overflow": "hidden",
+            "column-gap": "16px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -95685,8 +95685,8 @@
             "align-items": "stretch",
             "justify-content": "flex-start",
             "width": "stretch",
-            "flex-column-gap": "16px",
-            "overflow": "hidden"
+            "overflow": "hidden",
+            "column-gap": "16px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -95944,8 +95944,8 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px",
-            "overflow": "hidden"
+            "overflow": "hidden",
+            "column-gap": "16px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -97046,7 +97046,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -97836,7 +97836,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -98063,7 +98063,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -98086,7 +98086,7 @@
             "flex-direction": "column",
             "align-items": "center",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -98108,8 +98108,8 @@
             "position": "relative",
             "height": "wrap",
             "flex-direction": "column",
-            "flex-row-gap": "16px",
-            "align-items": "center"
+            "align-items": "center",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -99588,7 +99588,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -100789,7 +100789,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -101923,7 +101923,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -103949,7 +103949,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "8px"
+            "row-gap": "8px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -104771,7 +104771,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -106220,7 +106220,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -106248,7 +106248,7 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -107035,7 +107035,6 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
@@ -107043,7 +107042,8 @@
             "justify-content": "center",
             "position": "relative",
             "width": "stretch",
-            "flex-column-gap": "48px"
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -109565,7 +109565,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -111295,7 +111295,7 @@
           "__type": "VariantSetting"
         },
         "42200028": {
-          "values": { "display": "flex", "flex-column-gap": "16px" },
+          "values": { "display": "flex", "column-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -111314,7 +111314,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -111347,7 +111347,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [{ "__ref": "42182640" }],
           "__type": "RuleSet"
@@ -112699,7 +112699,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -112727,7 +112727,7 @@
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [{ "__ref": "42180604" }],
           "__type": "RuleSet"
@@ -113429,7 +113429,6 @@
           "values": {
             "display": "flex",
             "align-items": "center",
-            "flex-row-gap": "16px",
             "padding-right": "24px",
             "padding-bottom": "24px",
             "padding-left": "24px",
@@ -113437,7 +113436,8 @@
             "justify-content": "center",
             "position": "relative",
             "width": "stretch",
-            "flex-column-gap": "48px"
+            "column-gap": "48px",
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -113998,8 +113998,8 @@
             "width": "stretch",
             "height": "wrap",
             "align-items": "stretch",
-            "flex-column-gap": "16px",
-            "flex-row-gap": "0px"
+            "column-gap": "16px",
+            "row-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -114016,7 +114016,7 @@
           "__type": "VariantSetting"
         },
         "42200561": {
-          "values": { "flex-direction": "column", "flex-row-gap": "16px" },
+          "values": { "flex-direction": "column", "row-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -114473,8 +114473,8 @@
             "width": "stretch",
             "height": "wrap",
             "align-items": "stretch",
-            "flex-column-gap": "16px",
-            "flex-row-gap": "0px"
+            "column-gap": "16px",
+            "row-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -114491,7 +114491,7 @@
           "__type": "VariantSetting"
         },
         "42200663": {
-          "values": { "flex-direction": "column", "flex-row-gap": "16px" },
+          "values": { "flex-direction": "column", "row-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -114961,8 +114961,8 @@
             "width": "stretch",
             "height": "wrap",
             "align-items": "stretch",
-            "flex-column-gap": "16px",
-            "flex-row-gap": "0px"
+            "column-gap": "16px",
+            "row-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -114979,7 +114979,7 @@
           "__type": "VariantSetting"
         },
         "42200767": {
-          "values": { "flex-direction": "column", "flex-row-gap": "16px" },
+          "values": { "flex-direction": "column", "row-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -115620,8 +115620,8 @@
             "width": "stretch",
             "height": "wrap",
             "align-items": "stretch",
-            "flex-column-gap": "16px",
-            "flex-row-gap": "0px"
+            "column-gap": "16px",
+            "row-gap": "0px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -115638,7 +115638,7 @@
           "__type": "VariantSetting"
         },
         "42200908": {
-          "values": { "flex-direction": "column", "flex-row-gap": "16px" },
+          "values": { "flex-direction": "column", "row-gap": "16px" },
           "mixins": [],
           "__type": "RuleSet"
         },
@@ -115674,7 +115674,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -115694,7 +115694,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -115715,7 +115715,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -116194,7 +116194,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -116526,7 +116526,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -116871,7 +116871,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -117217,7 +117217,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -117238,7 +117238,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -117515,7 +117515,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "64px"
+            "row-gap": "64px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -118788,7 +118788,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -119282,7 +119282,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -119302,7 +119302,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -119634,7 +119634,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -119654,7 +119654,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -119999,7 +119999,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -120019,7 +120019,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -120365,7 +120365,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -120385,7 +120385,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -120406,7 +120406,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -122108,7 +122108,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -122611,7 +122611,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -122631,7 +122631,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -122973,7 +122973,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -122993,7 +122993,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -123339,7 +123339,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -123359,7 +123359,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -123380,7 +123380,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -124938,7 +124938,7 @@
             "flex-direction": "column",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px"
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -125431,7 +125431,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -125451,7 +125451,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -125793,7 +125793,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -125813,7 +125813,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -126159,7 +126159,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -126179,7 +126179,7 @@
           "values": {
             "display": "flex",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -126200,7 +126200,7 @@
             "display": "flex",
             "position": "relative",
             "flex-direction": "column",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -127455,8 +127455,8 @@
             "justify-content": "center",
             "align-content": "flex-start",
             "flex-wrap": "wrap",
-            "flex-column-gap": "48px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -127485,7 +127485,7 @@
             "padding-left": "64px",
             "width": "stretch",
             "align-content": "unset",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -127995,7 +127995,7 @@
             "padding-right": "64px",
             "padding-bottom": "64px",
             "padding-left": "64px",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -128892,8 +128892,8 @@
             "justify-content": "center",
             "align-content": "flex-start",
             "flex-wrap": "wrap",
-            "flex-column-gap": "48px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -128922,7 +128922,7 @@
             "padding-left": "64px",
             "width": "stretch",
             "align-content": "unset",
-            "flex-row-gap": "16px"
+            "row-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -129860,8 +129860,8 @@
             "justify-content": "center",
             "align-content": "flex-start",
             "flex-wrap": "wrap",
-            "flex-column-gap": "48px",
-            "width": "stretch"
+            "width": "stretch",
+            "column-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -130012,7 +130012,7 @@
             "padding-left": "64px",
             "width": "stretch",
             "align-content": "unset",
-            "flex-row-gap": "32px"
+            "row-gap": "32px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -130432,7 +130432,7 @@
             "flex-direction": "row",
             "align-items": "stretch",
             "justify-content": "flex-start",
-            "flex-column-gap": "48px"
+            "column-gap": "48px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -130493,9 +130493,9 @@
             "flex-direction": "column",
             "align-items": "center",
             "justify-content": "flex-start",
-            "flex-row-gap": "24px",
             "align-content": "unset",
-            "width": "66%"
+            "width": "66%",
+            "row-gap": "24px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -130601,7 +130601,7 @@
             "padding-right": "64px",
             "padding-bottom": "64px",
             "padding-left": "64px",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -130817,8 +130817,8 @@
             "padding-right": "64px",
             "padding-bottom": "64px",
             "padding-left": "64px",
-            "flex-row-gap": "32px",
-            "background": "linear-gradient(var(--token-9hJgiHiPfM_), var(--token-9hJgiHiPfM_))"
+            "background": "linear-gradient(var(--token-9hJgiHiPfM_), var(--token-9hJgiHiPfM_))",
+            "row-gap": "32px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -149423,7 +149423,7 @@
             "display": "flex",
             "flex-direction": "row",
             "align-items": "center",
-            "flex-column-gap": "16px"
+            "column-gap": "16px"
           },
           "mixins": [],
           "__type": "RuleSet"
@@ -151258,7 +151258,7 @@
         }
       },
       "deps": [],
-      "version": "249-add-style-token-overrides"
+      "version": "250-migrate-flex-gap"
     }
   ]
 ]
