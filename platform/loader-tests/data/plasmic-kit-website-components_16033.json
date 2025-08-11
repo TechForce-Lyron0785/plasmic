@@ -2646,7 +2646,8 @@
           "customFunctions": [],
           "codeLibraries": [],
           "__type": "Site",
-          "styleTokenOverrides": []
+          "styleTokenOverrides": [],
+          "dataTokens": []
         },
         "42180002": {
           "uuid": "iGFxBXZweTG",
@@ -151258,7 +151259,7 @@
         }
       },
       "deps": [],
-      "version": "250-migrate-flex-gap"
+      "version": "251-add-data-tokens"
     }
   ]
 ]
