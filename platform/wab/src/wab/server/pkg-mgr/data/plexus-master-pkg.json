@@ -13545,7 +13545,7 @@
             "position": "fixed",
             "top": "10%",
             "left": "50%",
-            "transform": "translateX(-50%)",
+            "transform": "translate3d(-50%, 0px, 0px)",
             "max-width": "300px"
           },
           "mixins": [],
@@ -13933,7 +13933,7 @@
         }
       },
       "deps": [],
-      "version": "253-set-animations-empty-state"
+      "version": "254-migrate-transforms"
     }
   ],
   [
@@ -17640,7 +17640,7 @@
         }
       },
       "deps": [],
-      "version": "253-set-animations-empty-state"
+      "version": "254-migrate-transforms"
     }
   ],
   [
@@ -76105,7 +76105,7 @@
         }
       },
       "deps": [],
-      "version": "253-set-animations-empty-state"
+      "version": "254-migrate-transforms"
     }
   ],
   [
@@ -77524,7 +77524,7 @@
         }
       },
       "deps": [],
-      "version": "253-set-animations-empty-state"
+      "version": "254-migrate-transforms"
     }
   ],
   [
@@ -80756,7 +80756,7 @@
             "transition-property": "all",
             "transition-duration": "0.1s",
             "transition-timing-function": "ease-out",
-            "transform": "translateX(0px) translateY(0px) translateZ(0px)"
+            "transform": "skew(0deg, 0deg)"
           },
           "mixins": [{ "__ref": "R6JXGqztOeDW" }, { "__ref": "0sdXw_jq2Y2R" }],
           "__type": "RuleSet",
@@ -80774,9 +80774,7 @@
           "__type": "VariantSetting"
         },
         "-XixKWOGmt-x": {
-          "values": {
-            "transform": "translateX(12px) translateY(0px) translateZ(0px)"
-          },
+          "values": { "transform": "translate3d(12px, 0px, 0px)" },
           "mixins": [],
           "__type": "RuleSet",
           "animations": null
@@ -144025,7 +144023,7 @@
             "color": "var(--token-k_hD7Nss7Fpw)",
             "width": "10px",
             "height": "10px",
-            "transform": "translateX(0px) translateY(3px) translateZ(0px)"
+            "transform": "translate3d(0px, 3px, 0px)"
           },
           "mixins": [],
           "__type": "RuleSet",
@@ -144056,7 +144054,7 @@
         },
         "SWJdLVh6JY-j": {
           "values": {
-            "transform": "translateX(0px) translateY(-3px) translateZ(0px)$$$rotateX(0deg) rotateY(0deg) rotateZ(180deg)"
+            "transform": "translate3d(0px, -3px, 0px) rotate3d(0, 0, 1, 180deg)"
           },
           "mixins": [],
           "__type": "RuleSet",
@@ -144087,7 +144085,7 @@
         },
         "kU84XF6QlUdy": {
           "values": {
-            "transform": "translateX(-3px) translateY(0px) translateZ(0px)$$$rotateX(0deg) rotateY(0deg) rotateZ(90deg)"
+            "transform": "translate3d(-3px, 0px, 0px) rotate3d(0, 0, 1, 90deg)"
           },
           "mixins": [],
           "__type": "RuleSet",
@@ -144118,7 +144116,7 @@
         },
         "M1zWbwYJdEpO": {
           "values": {
-            "transform": "translateX(3px) translateY(0px) translateZ(0px)$$$rotateX(0deg) rotateY(0deg) rotateZ(-90deg)"
+            "transform": "translate3d(3px, 0px, 0px) rotate3d(0, 0, 1, -90deg)"
           },
           "mixins": [],
           "__type": "RuleSet",
@@ -153065,7 +153063,7 @@
         "19c48945-39dc-40d6-9321-7afea93b53d2",
         "80d9da93-8ca7-4525-aeec-cc43c0c8feb2"
       ],
-      "version": "253-set-animations-empty-state"
+      "version": "254-migrate-transforms"
     }
   ]
 ]
