@@ -25342,7 +25342,7 @@
           "description": "Plasmic's mission is to democratize software creation and empower everyone to bring their ideas to life. We are proudly funded by NEA.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "Lu-VsYPYY9EH" },
           "__type": "PageMeta"
         },
         "42183732": {
@@ -26460,7 +26460,7 @@
           "description": "Plasmic is a visual, no-code page/content builder for any website or codebase. Empower anyone to publish free-form content seamlessly into your Jamstack codebase.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "adTMxYeidTtB" },
           "__type": "PageMeta"
         },
         "42183955": {
@@ -79359,7 +79359,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for any website or codebase. Use your existing code components. Empower the whole team to ship incredibly fast.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "uo7b32Q8DaPj" },
           "__type": "PageMeta"
         },
         "42192903": {
@@ -104080,7 +104080,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for Next.js websites. Use your existing code components. Empower the whole team to ship incredibly fast.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "MXK1LwB_crIl" },
           "__type": "PageMeta"
         },
         "42197463": {
@@ -106849,7 +106849,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for Gatsby websites. Use your existing code components. Empower the whole team to ship incredibly fast.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "zXnUfQ1Yvk8v" },
           "__type": "PageMeta"
         },
         "42197966": {
@@ -108084,7 +108084,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for any website or codebase. Empower anyone to publish free-form content seamlessly into your codebase.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "nBFilNgbMxmP" },
           "__type": "PageMeta"
         },
         "42198171": {
@@ -109293,7 +109293,7 @@
           "description": "Plasmic is a visual, no-code website builder and CMS that lets you deploy anywhere and extend with code.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "b9i_CihvNobH" },
           "__type": "PageMeta"
         },
         "42198370": {
@@ -115347,7 +115347,7 @@
           "description": "Plasmic is the world's most powerful web design tool and CMS that integrates seamlessly into your website or codebase.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "wHf0_9oazv5l" },
           "__type": "PageMeta"
         },
         "42199418": {
@@ -129347,7 +129347,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for ecommerce websites. Use your existing code components. Empower the whole team to ship incredibly fast.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42199502" },
+          "openGraphImage": { "__ref": "7w0cB60odT_w" },
           "__type": "PageMeta"
         },
         "42201968": {
@@ -132348,7 +132348,7 @@
           "description": "Plasmic is a visual, no-code page builder and CMS for marketing websites. Use your existing code components. Empower marketing teams to ship incredibly fast.",
           "canonical": null,
           "roleId": null,
-          "openGraphImage": { "__ref": "42183732" },
+          "openGraphImage": { "__ref": "WcIWzm16xXBh" },
           "__type": "PageMeta"
         },
         "42202505": {
@@ -161715,10 +161715,50 @@
           "name": "On PlasmicLoader change",
           "uuid": "_Binu5IQusF",
           "__type": "Var"
+        },
+        "Lu-VsYPYY9EH": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "adTMxYeidTtB": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "uo7b32Q8DaPj": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "MXK1LwB_crIl": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "zXnUfQ1Yvk8v": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "nBFilNgbMxmP": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "b9i_CihvNobH": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "wHf0_9oazv5l": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
+        },
+        "7w0cB60odT_w": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42199502" }
+        },
+        "WcIWzm16xXBh": {
+          "__type": "ImageAssetRef",
+          "asset": { "__ref": "42183732" }
         }
       },
       "deps": [],
-      "version": "254-migrate-transforms"
+      "version": "255-wrap-page-meta-og-image-in-ref"
     }
   ]
 ]
